@@ -1,1 +1,2 @@
-this is anew peoject text2
+this is a new project text2
+this is devops project
